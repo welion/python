@@ -1,0 +1,7 @@
+{
+	"server" : "76.164.197.155",
+	"server_port" : 9980,
+	"local_port" : 8888,
+	"password" : "55886143",
+	"method" : "aes-256-cfb",
+	"remarks" : ""}
